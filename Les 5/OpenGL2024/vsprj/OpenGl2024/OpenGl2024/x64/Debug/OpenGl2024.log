@@ -1,0 +1,7 @@
+﻿  TextureManager.cpp
+D:\Gihub\OpenGL\OpenGL2024\vsprj\OpenGl2024\OpenGl2024\FileLoader.h(16,2): warning C4091: 'static ': ignored on left of 'FileLoader' when no variable is declared
+  (compiling source file 'TextureManager.cpp')
+  
+  OpenGl2024.vcxproj -> D:\Gihub\OpenGL\OpenGL2024\vsprj\OpenGl2024\x64\Debug\OpenGl2024.exe
+  Copying native Assimp libraries...
+  D:\Gihub\OpenGL\OpenGL2024\vsprj\OpenGl2024\x64\Debug\OpenGl2024.deps.json
